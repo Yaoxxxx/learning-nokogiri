@@ -1,5 +1,7 @@
 # learning-nokogiri: Nokogiriの練習
 
+これはgie puts　のテストです。
+
 ## 始め方
 
 事前にVagrantにログインしておく。
